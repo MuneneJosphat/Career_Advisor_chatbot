@@ -11,4 +11,4 @@ def generate_response(message):
     elif "backend" in message or "server" in message: 
         return "Backend Development could be your thing . Learn Python(Flask, Django), Node.js, databases like PostgreSQL or MangoDB. "
     else:
-        return "Tell me more about your interests or skills so I can guide you better. For example, say things like "I like building websites" or "I like analyzing data."
+        return "Tell me more about your interests or skills so I can guide you better. For example, say things like I like building websites or I like analyzing data."
